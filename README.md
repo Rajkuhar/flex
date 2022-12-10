@@ -15,7 +15,7 @@ This assignment has simply used reactJS, CSS, Bootstrap, Javascript, Firebase Da
 <hr>
 
 ## ER Diagram
-<img src='Screenshots/Capture.png'>
+<img src='Screenshots/Capture.PNG'>
 
 <hr>
 
