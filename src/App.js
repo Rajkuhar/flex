@@ -8,7 +8,7 @@ const App = () => {
   return (
     <div className="central">
       <div className='app'>
-        <div className='bannerText'> Flexi Yoga Center</div>
+        <div className='bannerText'> Daily Yoga Center</div>
         <div className='formForEntry'>
           <Router>
             <Routes>
